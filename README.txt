@@ -1,3 +1,6 @@
+# AYGAZ GEN AI PROMT ENGİNEERİNG GİRİŞ PROJESİ
+
+
 
 ### ChatGPT- 3.5 kullanılarak promt oluşturuldu.
 
